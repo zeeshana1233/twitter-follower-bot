@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourusername.github.io/twitter-follower-bot/sitemap.xml
+Sitemap: https://zeeshana1233.github.io/twitter-follower-bot/sitemap.xml

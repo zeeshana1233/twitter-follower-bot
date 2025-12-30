@@ -6,7 +6,7 @@ This is a beautiful, SEO-optimized one-page website showcasing the Twitter Follo
 
 ## 🌐 Live Website
 
-Visit: [https://yourusername.github.io/twitter-follower-bot/](https://yourusername.github.io/twitter-follower-bot/)
+Visit: [https://zeeshana1233.github.io/twitter-follower-bot/](https://zeeshana1233.github.io/twitter-follower-bot/)
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ Visit: [https://yourusername.github.io/twitter-follower-bot/](https://youruserna
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/twitter-follower-bot.git
+git clone https://github.com/zeeshana1233/twitter-follower-bot.git
 cd twitter-follower-bot
 ```
 
@@ -78,7 +78,7 @@ git push origin main
 3. Navigate to "Pages" section
 4. Select "main" branch as source
 5. Click "Save"
-6. Your site will be live at `https://yourusername.github.io/twitter-follower-bot/`
+6. Your site will be live at `https://zeeshana1233.github.io/twitter-follower-bot/`
 
 ## 📊 SEO Features
 
